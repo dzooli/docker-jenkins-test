@@ -10,6 +10,6 @@ py==1.11.0
 pycodestyle==2.8.0
 pyparsing==3.0.7
 pytest==7.1.1
-setuptools==70.0.0
+setuptools==78.1.1
 toml==0.10.2
 tomli==2.0.1
